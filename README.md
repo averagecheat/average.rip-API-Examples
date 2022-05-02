@@ -1,7 +1,7 @@
 <br>
  <h5 align="center">
 <br>
- <a href="https://average.rip/apidemo">✨ API-Demo</a>
+ <a href="https://average.rip/apidemo">✨ Web-Demo</a>
 <br>
 <br>
 API-Examples:
