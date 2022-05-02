@@ -1,0 +1,1 @@
+# average.rip-API-Examples
